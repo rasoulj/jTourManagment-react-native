@@ -1,0 +1,9 @@
+{
+  "name": "NativebaseKitchenSink",
+  "displayName": "NativebaseKitchenSink",
+  "expo": {
+    "name": "NativebaseKitchenSink",
+    "slug": "My-Tour",
+    "sdkVersion": "22.0.0"
+  }
+}
